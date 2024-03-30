@@ -5,7 +5,7 @@ Meu repositório pessoal
 <p>
   oii 👋🏻, eu sou a Maris e sou uma estudante Brasileira! ✨🌞
 
-  - 🖥️ Eu estudo em uma escola técnica, cursando o segundo ano do ensino médio em Informática! <img align="center" alt="html5"
+  - 🖥️ Eu estudo em uma escola técnica, cursando o segundo ano do ensino médio em Informática!
 
   - 👾 Sou uma pessoa bem curiosa, e estou sempre disposta a apresentar coisas novas!
 </p>
@@ -19,15 +19,6 @@ Meu repositório pessoal
   - ⚡ Eu ja desenvolvi alguma projetos escolares e pessoais, já trabalhei com Java, Portugol, Python entre outras, atualmente estou estudando com o foco em HTML, CSS e Java Script para o desenvolvimento de websites.
 </details>
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="left">
